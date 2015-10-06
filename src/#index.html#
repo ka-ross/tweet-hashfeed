@@ -1,0 +1,9 @@
+<head>
+</head>
+
+<body>
+<center><h1>HASHTAG FINDER</h1> </center>
+  <form action="../bin/tweet-update.php" method="post">
+  <center><p>Please enter a word.</p></center>
+  <input type="text" name="hash_tag" maxlength="20" />
+  </form>

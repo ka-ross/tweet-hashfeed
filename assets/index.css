@@ -1,1 +1,11 @@
-//CSS
+//Filename: index.css
+//Created by: Kyle Ross
+//Date updated: 10/6/15
+
+h1 {
+font-family: 'Josefin Sans', sans-serif;
+}
+
+p {
+font-family: 'Montserrat', sans-serif;
+}
